@@ -14,7 +14,8 @@ python xenu-analyzer.py input.html
 ```
 
 It will generate three files you'll probably need:
-valid_urls_for_searchengines.txt  
-broken_links.txt
-redirected_urls.txt
+
+- valid_urls_for_searchengines.txt  
+- broken_links.txt
+- redirected_urls.txt
 
